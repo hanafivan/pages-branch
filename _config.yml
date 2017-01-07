@@ -10,7 +10,11 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/hanafivan.jpg
 
+<<<<<<< HEAD
 url: https://hanafivan.github.io/
+=======
+url: https://hanafivan.github.io
+>>>>>>> origin/master
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
